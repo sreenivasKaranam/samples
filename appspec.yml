@@ -2,4 +2,4 @@ version: 0.0
 os: windows
 files:
   - source: \
-    destination: C:\Users\Administrator\Documents\dot_net_application
+    destination: C:\Users\Administrator\Documents\sample-web
